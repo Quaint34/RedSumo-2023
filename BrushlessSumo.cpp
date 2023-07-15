@@ -73,7 +73,7 @@ void BrushlessSumo::forward(int speedleft, int speedRight){
 
   
     _rightMotor.reverse(speedRight);
-     _leftMotor.reverse(speedleft);
+    _leftMotor.reverse(speedleft);
       
     
     
